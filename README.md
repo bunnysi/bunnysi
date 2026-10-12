@@ -6,7 +6,7 @@
 - 📫 How to reach me:
     - ✨ bunnysi@outlook.com
     - ✨ You can reach me at my work email: hi@lifeng.net
-- 🚀 [bunnysi.github.io](https://bunnysi.github.io)
+- 🚀 [bunnysi.lifeng.net](https://bunnysi.lifeng.net)
 
 
 *Nice to meet you.*
