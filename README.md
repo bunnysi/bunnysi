@@ -1,30 +1,14 @@
-<div align="center">
-
 ### Hi there, I'm [bunnysi](https://github.com/bunnysi) 🐰
 
-<br>
 
-🔭 &nbsp;&nbsp; Working on **Go**
+- 🔭 I'm currently working on Go
+- 🌱 I'm currently learning AI: agents that keep a person in the loop, and voice that answers while you are still talking. Rust for Linux, on the side.
+- 📫 How to reach me:
+    - ✨ bunnysi@outlook.com
+    - ✨ You can reach me at my work email: hi@lifeng.net
+- 🚀 [bunnysi.github.io](https://bunnysi.github.io)
 
-🤖 &nbsp;&nbsp; Learning **AI**  
-agents that keep a person in the loop,  
-and voice that answers while you are still talking
-
-<sub>Rust for Linux, on the side.</sub>
-
-<br>
-
-📫 &nbsp;&nbsp; [bunnysi@outlook.com](mailto:bunnysi@outlook.com)  
-You can reach me at my work email: [hi@lifeng.net](mailto:hi@lifeng.net)
-
-🚀 &nbsp;&nbsp; [bunnysi.github.io](https://bunnysi.github.io)
-
-<br>
 
 *Nice to meet you.*
 
-<br>
-
-<img alt="" src="https://komarev.com/ghpvc/?username=bunnysi&label=visitors&color=555555&style=flat-square" />
-
-</div>
+![](https://komarev.com/ghpvc/?username=bunnysi&style=for-the-badge)
