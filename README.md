@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning AI: agents that keep a person in the loop, and voice that answers while you are still talking. Rust for Linux, on the side.
 - 📫 How to reach me:
     - ✨ bunnysi@outlook.com
-    - ✨ work: imlifeng@outlook.com
+    - ✨ work: bunys@proton.me
 - 🚀 home: https://bunny.is-a.si
 - 📝 notes: https://bunnysi.bearblog.dev
 
