@@ -7,6 +7,7 @@
     - ✨ bunnysi@outlook.com
     - ✨ You can reach me at my work email: imlifeng@outlook.com
 - 🚀 [bunny.is-a.si](https://bunny.is-a.si)
+- 📝 [spacebunny.cc](https://spacebunny.cc)
 
 
 *Nice to meet you.*
