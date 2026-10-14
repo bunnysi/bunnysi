@@ -5,8 +5,8 @@
 - 🌱 I'm currently learning AI: agents that keep a person in the loop, and voice that answers while you are still talking. Rust for Linux, on the side.
 - 📫 How to reach me:
     - ✨ bunnysi@outlook.com
-    - ✨ You can reach me at my work email: lifeng@lifeng.net
-- 🚀 [bunnysi.lifeng.net](https://bunnysi.lifeng.net)
+    - ✨ You can reach me at my work email: imlifeng@outlook.com
+- 🚀 [bunny.is-a.si](https://bunny.is-a.si)
 
 
 *Nice to meet you.*
