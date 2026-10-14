@@ -7,7 +7,7 @@
     - ✨ bunnysi@outlook.com
     - ✨ work: imlifeng@outlook.com
 - 🚀 home: https://bunny.is-a.si
-- 📝 notes: https://spacebunny.cc
+- 📝 notes: https://bunnysi.bearblog.dev
 
 
 *Nice to meet you.*
